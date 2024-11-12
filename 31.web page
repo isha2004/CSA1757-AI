@@ -1,0 +1,31 @@
+<h1>Exploring HTML Tags in WordPress</h1>
+<p>Welcome to my blog! In this post, we'll explore various HTML tags you can use in WordPress.</p>
+
+<h2>Anchor Tag</h2>
+<p>Here’s a link to <a href="https://www.example.com">Example.com</a>.</p>
+
+<h2>Heading Tags</h2>
+<h3>This is a Level 3 Heading</h3>
+<p>Headings help organize your content. Use them wisely!</p>
+
+<h2>Paragraph Tag</h2>
+<p>This is a simple paragraph. It’s used to group sentences into blocks of text.</p>
+
+<h2>Image Tag</h2>
+<p>Below is an image:</p>
+<img src="https://via.placeholder.com/150" alt="Placeholder Image">
+
+<h2>List Tags</h2>
+<p>Here’s an unordered list:</p>
+<ul>
+  <li>Item 1</li>
+  <li>Item 2</li>
+  <li>Item 3</li>
+</ul>
+
+<p>And an ordered list:</p>
+<ol>
+  <li>First item</li>
+  <li>Second item</li>
+  <li>Third item</li>
+</ol>
